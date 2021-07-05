@@ -1,4 +1,6 @@
 Jax
 Urgot
-Darius
 Mordekaiser
+Malphite
+Miss Fortune
+Renekton
