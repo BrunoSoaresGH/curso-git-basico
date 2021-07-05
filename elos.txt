@@ -2,4 +2,3 @@ Ferro
 Bronze
 Prata
 Ouro
-Lendario
