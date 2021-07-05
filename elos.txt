@@ -2,3 +2,4 @@ Ferro
 Bronze
 Prata
 Ouro
+Lenda
